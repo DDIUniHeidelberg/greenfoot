@@ -23,8 +23,8 @@ public class Blatt extends Actor {
         // mitgezaehlt. Daher hier >1 statt >0 !!
     }
 
-/** setLocation überschreiben, um ein Blatt nicht auf einen Baum oder 
- *  anderes Blatt ziehen zu können! */ 
+/** setLocation Ueberschreiben, um ein Blatt nicht auf einen Baum oder 
+ *  anderes Blatt ziehen zu koennen! */ 
     public void setLocation(int x, int y)   {
          List baum = getWorld().getObjectsAt(x, y, Baum.class);
          List blatt = getWorld().getObjectsAt(x, y, Blatt.class);
