@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Blatt()
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=wird\ aufgerufen,\ wenn\ das\ Blatt\ in\ die\ Wiese\ platziert\ wird
+comment2.params=x\ y
+comment2.target=void\ setLocation(int,\ int)
+comment2.text=\ setLocation\ \u00FCberschreiben,\ um\ ein\ Blatt\ nicht\ auf\ einen\ Baum\ oder\ \nanderes\ Blatt\ ziehen\ zu\ k\u00F6nnen\!
+numComments=3

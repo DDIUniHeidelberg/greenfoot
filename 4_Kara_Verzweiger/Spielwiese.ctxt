@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Spielwiese()
+comment0.text=Konstruktor\ der\ Spielwiese.
+comment1.params=
+comment1.target=void\ macheAnfangsgegend()
+comment1.text=Anfangssituation\ herstellen\:\ 3\ Blaetter\ und\ 2\ Baeume\ werden\ verteilt
+comment2.params=
+comment2.target=void\ macheStadtmauer()
+comment2.text=Stadtmauer\ aussen\ herum\ aufbauen
+numComments=3
