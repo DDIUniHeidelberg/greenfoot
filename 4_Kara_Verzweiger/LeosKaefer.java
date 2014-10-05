@@ -20,5 +20,13 @@ public class LeosKaefer extends Kara
         else{
             melde("Besetzt");// Add your action code here.
         }
-    }    
+    }
+    
+    public void hungrigerKaefer(){
+        melde("Ich habe Hunger!");
+        einsVor();
+        linksUm();
+        einsVor();
+        linksUm();
+    }
 }
