@@ -6,5 +6,5 @@ comment1.target=void\ addedToWorld(greenfoot.World)
 comment1.text=wird\ aufgerufen,\ wenn\ das\ Blatt\ in\ die\ Wiese\ platziert\ wird
 comment2.params=x\ y
 comment2.target=void\ setLocation(int,\ int)
-comment2.text=\ setLocation\ \u00FCberschreiben,\ um\ ein\ Blatt\ nicht\ auf\ einen\ Baum\ oder\ \nanderes\ Blatt\ ziehen\ zu\ k\u00F6nnen\!
+comment2.text=\ setLocation\ \u00C3\u00BCberschreiben,\ um\ ein\ Blatt\ nicht\ auf\ einen\ Baum\ oder\ \r\nanderes\ Blatt\ ziehen\ zu\ k\u00C3\u00B6nnen\!
 numComments=3

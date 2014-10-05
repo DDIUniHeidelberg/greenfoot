@@ -1,14 +1,14 @@
 #BlueJ class context
 comment0.params=
 comment0.target=void\ bereiteVor()
-comment0.text=\n\ Als\ Vorbereitung\ erhaelt\ der\ Kaefer\ 10\ Kleeblaetter,\n\ damit\ er\ sie\ spaeter\ pflanzen(\=ablegen)\ kann.\n
+comment0.text=\r\n\ Als\ Vorbereitung\ erhaelt\ der\ Kaefer\ 10\ Kleeblaetter,\r\n\ damit\ er\ sie\ spaeter\ pflanzen(\=ablegen)\ kann.\r\n
 comment1.params=
 comment1.target=void\ tausche()
-comment1.text=\ \n\ Der\ Kaefer\ tauscht\ aus.\ Wo\ ein\ Kleeblatt\ liegt,\ hebt\ er\ es\ auf.\n\ Wo\ keines\ liegt,\ legt\ er\ eines\ ab,\ wenn\ er\ noch\ Blaetter\ \n\ in\ seinem\ Vorrat\ hat.\n
+comment1.text=\ \r\n\ Der\ Kaefer\ tauscht\ aus.\ Wo\ ein\ Kleeblatt\ liegt,\ hebt\ er\ es\ auf.\r\n\ Wo\ keines\ liegt,\ legt\ er\ eines\ ab,\ wenn\ er\ noch\ Blaetter\ \r\n\ in\ seinem\ Vorrat\ hat.\r\n
 comment2.params=
 comment2.target=void\ tauscheUndVor()
-comment2.text=\ \n\ Der\ Kaefer\ macht\ mehrere\ Dinge.\ Beschreibe\ in\ diesem\ Kommentar.\ \n
+comment2.text=\ \r\n\ Der\ Kaefer\ macht\ mehrere\ Dinge.\ Beschreibe\ in\ diesem\ Kommentar.\ \r\n
 comment3.params=
 comment3.target=void\ vorOderLinks()
-comment3.text=\ \n\ Der\ Kaefer\ geht\ einen\ Schritt\ vor,\ wenn\ es\ moeglich\ ist.\n\ Andernfalls\ dreht\ er\ nach\ links.\n\ AB\ 4\ -\ Nr\ 3\ \n
+comment3.text=\ \r\n\ Der\ Kaefer\ geht\ einen\ Schritt\ vor,\ wenn\ es\ moeglich\ ist.\r\n\ Andernfalls\ dreht\ er\ nach\ links.\r\n\ AB\ 4\ -\ Nr\ 3\ \r\n
 numComments=4
