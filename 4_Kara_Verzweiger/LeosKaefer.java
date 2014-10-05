@@ -29,4 +29,11 @@ public class LeosKaefer extends Kara
         einsVor();
         linksUm();
     }
+    
+    /** 
+     * Der Kaefer gibt seinen aktuellen Gefuehlsstand an 
+     */
+    public void GluecksstandAnzeigen() {
+        System.out.println(":-)))");
+    }
 }
