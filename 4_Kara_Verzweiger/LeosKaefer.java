@@ -29,4 +29,10 @@ public class LeosKaefer extends Kara
         einsVor();
         linksUm();
     }
+    
+    public void sehrHungrigerKaefer(){
+        for(int i = 0; i<5; i++){
+            hungrigerKaefer();
+        }
+    }
 }
