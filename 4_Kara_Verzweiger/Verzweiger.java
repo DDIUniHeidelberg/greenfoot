@@ -54,12 +54,7 @@ public class Verzweiger extends Kara {
              // Wo endet was? 
     }
     
-     /** 
-     * Der Kaefer gibt seinen aktuellen Gefuehlsstand an 
-     */
-    public void Gluecksstandangeben() {
-        System.out.println(":-)))");
-    }
+     
     
 } 
 // Ende des Programms

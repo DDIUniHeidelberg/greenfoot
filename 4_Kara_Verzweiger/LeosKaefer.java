@@ -35,4 +35,10 @@ public class LeosKaefer extends Kara
             hungrigerKaefer();
         }
     }
+    /** 
+     * Der Kaefer gibt seinen aktuellen Gefuehlsstand an 
+     */
+    public void GluecksstandAnzeigen() {
+        System.out.println(":-)))");
+    }
 }
