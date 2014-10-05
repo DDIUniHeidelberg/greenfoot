@@ -12,8 +12,13 @@ public class LeosKaefer extends Kara
      * Act - do whatever the LeosKaefer wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
-    public void act() 
+    public void einsVor() 
     {
-        // Add your action code here.
+        if(istVorneFrei()){
+            super.einsVor();
+        }
+        else{
+            melde("Besetzt");// Add your action code here.
+        }
     }    
 }
